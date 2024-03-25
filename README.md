@@ -20,6 +20,6 @@ rosrun rosserial_arduino serial_node.py
 
 ## Intructions should pop up for keyobard controls once this run
 
-##For testing purposes, you can also run a suscruber node that pastes the keyboard commands you did via teleop keyoboard 
+## For testing purposes, you can also run a suscruber node that pastes the keyboard commands you did via teleop keyoboard 
 
 rosrun teleop_twist_keyboard teleop_subscriber.py
